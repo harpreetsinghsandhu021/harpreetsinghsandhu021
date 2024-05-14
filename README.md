@@ -53,7 +53,7 @@
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Turborepo-EF4444.svg?style=for-the-badge&logo=Turborepo&logoColor=white"></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white"></a>
    
-    <!-- Add other frontend technologies here -->
+  
 </p>
 
 <h3>Backend</h3>
@@ -62,7 +62,7 @@
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Hono-E36002.svg?style=for-the-badge&logo=Hono&logoColor=white"></a>
   
-    <!-- Add other backend technologies here -->
+  
 </p>
 
 <h3>Databases</h3>
@@ -71,7 +71,7 @@
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"></a>
-    <!-- Add other database technologies here -->
+
 </p>
 
 <h3>Miscellaneous</h3>
@@ -83,5 +83,5 @@
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/OpenAPI%20Initiative-6BA539.svg?style=for-the-badge&logo=OpenAPI-Initiative&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black"></a>
-    <!-- Add other miscellaneous technologies here -->
+
 </p>
