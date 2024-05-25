@@ -15,7 +15,7 @@
         <li>💬 Ask me about anything, I am happy to help</li>
         <li>🌱 I'm currently learning Advanced Devops,Backend Communication and DSA.</li>
         <li>📬 How to reach me: <a href="https://www.linkedin.com/in/harpreet-singh-96717025b/">linkedIn</a></li>
-        <li>📝 <a href="./res.pdf">Resume</a></li>
+        <li>📝 <a href="./Harpreet-Singh-FlowCV-Resume-20240525.pdf">Resume</a></li>
         <li>💪 This is where I write, code, and solve problems:
             <ul>
                 <li><a href="https://github.com/harpreetsinghsandhu021">GitHub</a></li>
@@ -35,7 +35,6 @@
 <!--     wds -->
    <a href="#"><img alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
    <a href="#"><img alt="sql" src="https://camo.githubusercontent.com/be290bd9f3de3c77182a149964a99063b4ea213c2cc662616beb63674ffb265a/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465"></a>
-
 
    <h5>Learning</h5>
     <a href="#"><img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
