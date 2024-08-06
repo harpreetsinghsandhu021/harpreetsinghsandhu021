@@ -15,7 +15,7 @@
         <li>💬 Ask me about anything, I am happy to help</li>
         <li>🌱 I'm currently learning Advanced Devops,Backend Communication and DSA.</li>
         <li>📬 How to reach me: <a href="https://www.linkedin.com/in/harpreet-singh-96717025b/">linkedIn</a></li>
-        <li>📝 <a href="./Harpreet-Singh.pdf">Resume</a></li>
+    
         <li>💪 This is where I write, code, and solve problems:
             <ul>
                 <li><a href="https://github.com/harpreetsinghsandhu021">GitHub</a></li>
